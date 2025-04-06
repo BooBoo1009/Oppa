@@ -1,12 +1,12 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "Oppa",
     "password": "your_password",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "AnhThu1009-skyblock.aternos.me",
     "port": 25565,
     "version": "1.19.3"
   },
